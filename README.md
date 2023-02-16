@@ -2,7 +2,7 @@
 This project is a completely design and deploy the necessary infrastructure for a web app on Aws 
 
 -----------------------------------------------------------------------------------------------------------------
-Deploy High availability app using AWS cloudformation
+Objetive: Deploy High availability app using AWS cloudformation
 
 In this project, you will deploy a network based off the diagram developed and implement 
 the server stack, also note that the IAM role to access s3 bucket would be created, in this case, its 
